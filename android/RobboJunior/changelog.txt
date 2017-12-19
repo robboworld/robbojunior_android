@@ -1,0 +1,30 @@
+
+Changelog. [RobboJunior Android]
+
+Version 0.0.2 (On state: 15/11/2017)
+
+Bug fixed:
+
+1. Crash error when try to reconnect after power off.
+2. Error with characters moving.
+
+Gui modifications:
+
+1. Green icons (upload project, download project, bluetooth button) added.
+2. Version label added on "lobby" screen.
+
+Internal logic modifications:
+
+1. One step  in robot blocks section  = 0.2 seconds.
+2. Default locale was set to english.
+
+New features:
+
+1. Scratchduino hardware now can be viewed in "device list" component.
+2. Now available on smartphone devices.
+
+Version 0.0.3 (On state: 19/11/2017)
+
+1. Code refactoring was made. 
+
+
