@@ -14,7 +14,7 @@ The build caches .png files out of the .svg files to improve performance. To ena
 
 On Ubuntu:
 
-* Run <tt>sudo easy_install pysvg</tt> to install python svg libraries
+* Run <tt>sudo easy_install pysvg</tt> to install python svg libraries. If you don't have easy_install installed on your system than you should install python-setuptools. Run <tt>sudo apt-get install python-setuptools </tt>
 * Run <tt>sudo apt-get install librsvg2-bin</tt> to install rsvg-convert
 * Run <tt>sudo apt-get install imagemagick</tt> to install ImageMagick
 
